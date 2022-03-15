@@ -7,10 +7,10 @@
 </a>
 <a href="https://www.linkedin.com/in/ravindu-c-52235811b/">
   <img align="left" alt="Ravindu's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a
+</a>
+<br/>
 
-
-<br>
+  
   
 - 💼 any freelance work? do reach, [email](mailto:rchathuranga417@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
